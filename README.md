@@ -58,7 +58,8 @@ Bitenler:
 İlk sürümle gelecekler:
 
 - dosya gönderme (PDF, Word, PowerPoint, Excel, fotoğraf, video, ses),
-- web adresini tahtada açma.
+- web adresini tahtada açma,
+- Android telefonlarda başka bir uygulamada açık olan dosyayı "Paylaş" menüsünden doğrudan tahtaya gönderme.
 <!-- /AUTO:STATUS -->
 
 Sonrası için aklımda olanlar: derste gönderdiğin dosyaları tek dokunuşla yeniden açabileceğin bir "çanta", sayaç ve "Bana bakın" ekranı gibi küçük sınıf araçları, okuldaki tahtaları tek yerden görebileceğin bir yönetim ekranı.
