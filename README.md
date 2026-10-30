@@ -79,7 +79,7 @@ Arayüzler bittikçe buraya ekleyeceğim.
 
 İlk sürüm çıktığında [Sürümler](../../releases) bölümünden son `.deb` dosyasını indirip tahtada çift tıklaman yeterli olacak. Pardus Paket Yükleyici gerekli her şeyi kendisi kuruyor, sadece yönetici parolası soruyor.
 
-Sonraki güncellemeleri tahta kendisi kuruyor. Bunu da yalnızca tahta kullanılmıyorken yapıyor, yani ders ortasında hiçbir şey kesilmiyor.
+Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında tahta bunu birkaç saniye içinde fark ediyor ve kimseye bir şey sormadan, şifre istemeden kendini güncelliyor.
 
 ## Sürümler
 
