@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.082 (Arya)</b> · 30 Ekim 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.083 (Melinda)</b> · 30 Ekim 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
