@@ -47,18 +47,19 @@ Proje hâlâ geliştirme aşamasında. Kendi sınıfımdaki tahtada deneyerek il
 Bitenler:
 
 - tahtanın güvenli şekilde sunucuya bağlanması,
-- okul logosunun ve okula özel görünümün tahtada ve telefonda gösterilmesi.
+- okul logosunun ve okula özel görünümün tahtada ve telefonda gösterilmesi,
+- telefonu tahtaya QR kodla bir kez tanıtma; telefonun ertesi gün de hatırlanması,
+- tahtayı telefondan yönetme (sayfa çevirme, yakınlaştırma, videoyu durdurma),
+- tahtanın yeni sürümleri kendi kendine, şifre sormadan kurması,
+- PDF, Word, PowerPoint, Excel, fotoğraf, video ve ses dosyalarının tahtada açılması.
 
 Üzerinde çalıştıklarım:
 
-- telefonu tahtaya QR kodla tanıtma,
-- tahtayı telefondan yönetme,
-- tahtanın yeni sürümleri kendi kendine kurması.
+- telefondaki "Dosya gönder", "Web adresi gönder" ve "Fotoğraf çek" düğmeleri,
+- web adresini tahtada açma.
 
 İlk sürümle gelecekler:
 
-- dosya gönderme (PDF, Word, PowerPoint, Excel, fotoğraf, video, ses),
-- web adresini tahtada açma,
 - Android telefonlarda başka bir uygulamada açık olan dosyayı "Paylaş" menüsünden doğrudan tahtaya gönderme.
 <!-- /AUTO:STATUS -->
 
