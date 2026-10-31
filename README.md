@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.099 (Taylan)</b> · 31 Ekim 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.100 (Arya)</b> · 31 Ekim 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -85,7 +85,18 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 ## Sürümler
 
 <!-- AUTO:HISTORY -->
-Henüz sürüm yok.
+| Sürüm | Tarih | Yenilikler |
+| --- | --- | --- |
+| 0.100 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
+| 0.099 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
+| 0.098 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
+| 0.097 | 31 Ekim 2026 | Tahta videoyu kendiliğinden oynatamazsa "dosya açılamıyor" demek yerine videoyu duraklatıyor. |
+| 0.096 | 31 Ekim 2026 | Dosya açılırken hemen verilen komutlar (sayfa çevirme gibi) kaybolmuyor. |
+| 0.095 | 31 Ekim 2026 | Takılan bir Word ya da PowerPoint dönüştürmesi sonraki dosyaları artık engellemiyor. |
+| 0.094 | 31 Ekim 2026 | Tahtanın kendi kendini denetlemesi artık PDF, video ve ses açmayı da deniyor. |
+| 0.093 | 31 Ekim 2026 | Tahtanın sunucuyla bağlantısı art arda gelen isteklerde daha kararlı. |
+| 0.092 | 31 Ekim 2026 | Tahtada yanıtlanmayan bağlantı isteği beş dakika sonra kendiliğinden kapanıyor. |
+| 0.091 | 31 Ekim 2026 | Onaylanan telefon, sayfa yenilense bile hatırlanıyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
