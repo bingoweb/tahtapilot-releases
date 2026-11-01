@@ -87,16 +87,16 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
-| 0.102 | 1 Kasım 2026 | Küçük düzeltmeler ve iyileştirmeler. |
-| 0.101 | 1 Kasım 2026 | Küçük düzeltmeler ve iyileştirmeler. |
-| 0.100 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
-| 0.099 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
-| 0.098 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
 | 0.097 | 31 Ekim 2026 | Tahta videoyu kendiliğinden oynatamazsa "dosya açılamıyor" demek yerine videoyu duraklatıyor. |
 | 0.096 | 31 Ekim 2026 | Dosya açılırken hemen verilen komutlar (sayfa çevirme gibi) kaybolmuyor. |
 | 0.095 | 31 Ekim 2026 | Takılan bir Word ya da PowerPoint dönüştürmesi sonraki dosyaları artık engellemiyor. |
 | 0.094 | 31 Ekim 2026 | Tahtanın kendi kendini denetlemesi artık PDF, video ve ses açmayı da deniyor. |
 | 0.093 | 31 Ekim 2026 | Tahtanın sunucuyla bağlantısı art arda gelen isteklerde daha kararlı. |
+| 0.092 | 31 Ekim 2026 | Tahtada yanıtlanmayan bağlantı isteği beş dakika sonra kendiliğinden kapanıyor. |
+| 0.091 | 31 Ekim 2026 | Onaylanan telefon, sayfa yenilense bile hatırlanıyor. |
+| 0.090 | 31 Ekim 2026 | Telefon onaylandıktan sonra QR ekranı kendiliğinden kapanıyor. |
+| 0.089 | 31 Ekim 2026 | QR ekranı yeniden açıldığında eski kod bir an bile görünmüyor. |
+| 0.088 | 31 Ekim 2026 | Ders sırasında bağımlılık güncellemeleri ertelendi |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
