@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.155 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/download/v0.155/tahtapilot_0.155_amd64.deb">Tahta paketini indir</a></p>
+<p align="center"><b>Son sürüm: 0.156 (Taylan)</b> · 2 Kasım 2026 · <a href="../../releases/download/v0.156/tahtapilot_0.156_amd64.deb">Tahta paketini indir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -92,10 +92,10 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.156 | 2 Kasım 2026 | Telefonu ilk bağlarken hazır ad önerilerinden birine dokunman yetiyor. |
 | 0.154 | 1 Kasım 2026 | Araçlar, web adresi ve son gönderilen dosyalar artık yeni görünümüyle açılıyor. |
 | 0.153 | 1 Kasım 2026 | Araçlar sade: Dikkat'in açık mı kapalı mı olduğu görünüyor, sayaç tek satırdan başlatılıyor. |
 | 0.152 | 1 Kasım 2026 | Gönderdiğin dosya ekranda bir defter sayfası olarak görünüyor; son üç dosyayı Canlı ekranından tek dokunuşla yeniden açabiliyorsun. |
-| 0.151 | 1 Kasım 2026 | Web adresi gönderirken yazma alanı hemen açılıyor ve daha kolay kullanılıyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
