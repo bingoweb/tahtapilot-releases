@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.155 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.155 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/download/v0.155/tahtapilot_0.155_amd64.deb">Tahta paketini indir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
