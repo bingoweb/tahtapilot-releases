@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.120 (Taylan)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.121 (Arya)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.121 | 1 Kasım 2026 | Telefondaki gönderme ekranı ve Çanta yenilendi. |
 | 0.120 | 1 Kasım 2026 | Telefona «Dosya gönder», «Web adresi gönder» ve «Fotoğraf çek» düğmeleri geldi. |
 | 0.112 | 1 Kasım 2026 | Tahta, telefonla yönetilmediği zamanlarda Pardus güncellemelerini de sessizce kendisi kuruyor. |
 | 0.111 | 1 Kasım 2026 | Yeni sürümler yayımlandığı anda bütün tahtalara kuruluyor. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.103 | 1 Kasım 2026 | Bir videodan başka bir dosyaya hızlıca geçince yeni dosya artık kendiliğinden duraklamıyor. |
 | 0.097 | 31 Ekim 2026 | Tahta videoyu kendiliğinden oynatamazsa "dosya açılamıyor" demek yerine videoyu duraklatıyor. |
 | 0.096 | 31 Ekim 2026 | Dosya açılırken hemen verilen komutlar (sayfa çevirme gibi) kaybolmuyor. |
-| 0.095 | 31 Ekim 2026 | Takılan bir Word ya da PowerPoint dönüştürmesi sonraki dosyaları artık engellemiyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
