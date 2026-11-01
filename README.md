@@ -78,7 +78,12 @@ Arayüzler bittikçe buraya ekleyeceğim.
 
 ## Kurulum
 
-İlk sürüm çıktığında [Sürümler](../../releases) bölümünden son `.deb` dosyasını indirip tahtada çift tıklaman yeterli olacak. Pardus Paket Yükleyici gerekli her şeyi kendisi kuruyor, sadece yönetici parolası soruyor.
+Tahtaya tek bir dosya kuruyorsun: `tahtapilot_<sürüm>_amd64.deb`. Uygulama, arka plan hizmeti ve otomatik güncelleme bu pakette. [Sürümler](../../releases) sayfasında yanında başka dosyalar da göreceksin; onlar sunucunun ve güncellemenin kendi dosyaları, tahtaya kurulmuyor.
+
+1. Tahtada öğretmen oturumunu aç ve sayfanın başındaki **Tahta paketini indir** bağlantısına dokun (ya da Sürümler sayfasından en üstteki `tahtapilot_…_amd64.deb` dosyasını indir).
+2. İndirilenler klasöründeki dosyaya çift tıkla. Pardus Paket Yükleyici açılıyor, kurma düğmesine bas.
+3. Yönetici parolasını yalnızca bu ilk kurulumda soruyor. Gereken her şeyi Pardus depolarından kendisi indiriyor.
+4. Kurulum bitince tahtayı bir kez yeniden başlat. Öğretmen oturumu açıldığında TahtaPilot kendiliğinden geliyor ve ekranın kenarında küçük tutamacı görüyorsun.
 
 Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında tahta bunu birkaç saniye içinde fark ediyor ve kimseye bir şey sormadan, şifre istemeden kendini güncelliyor.
 
