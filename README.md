@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.100 (Arya)</b> · 31 Ekim 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.101 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.101 | 1 Kasım 2026 | Küçük düzeltmeler ve iyileştirmeler. |
 | 0.100 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
 | 0.099 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
 | 0.098 | 31 Ekim 2026 | Küçük düzeltmeler ve iyileştirmeler. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.094 | 31 Ekim 2026 | Tahtanın kendi kendini denetlemesi artık PDF, video ve ses açmayı da deniyor. |
 | 0.093 | 31 Ekim 2026 | Tahtanın sunucuyla bağlantısı art arda gelen isteklerde daha kararlı. |
 | 0.092 | 31 Ekim 2026 | Tahtada yanıtlanmayan bağlantı isteği beş dakika sonra kendiliğinden kapanıyor. |
-| 0.091 | 31 Ekim 2026 | Onaylanan telefon, sayfa yenilense bile hatırlanıyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
