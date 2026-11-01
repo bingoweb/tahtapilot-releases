@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.140 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.141 (Taylan)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.141 | 1 Kasım 2026 | Telefondan arka arkaya verilen komutlar tahtaya daha hızlı ulaşıyor. |
 | 0.140 | 1 Kasım 2026 | Android telefonlarda başka bir uygulamadaki dosyayı «Paylaş» menüsünden doğrudan tahtaya gönderebiliyorsun. |
 | 0.130 | 1 Kasım 2026 | Telefondan gönderilen web adresi tahtanın tarayıcısında açılıyor. |
 | 0.121 | 1 Kasım 2026 | Telefondaki gönderme ekranı ve Çanta yenilendi. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.110 | 1 Kasım 2026 | Bir güncelleme kurulamazsa tahta kendiliğinden önceki sürüme dönüyor. |
 | 0.109 | 1 Kasım 2026 | Bağlantı koptuğunda başarısız sayılan bir komut, bağlantı geri gelince artık kendiliğinden çalışmıyor. |
 | 0.107 | 1 Kasım 2026 | Bir telefon iki tahtayla eşleştiyse, en son kodunu okuttuğun tahtaya bağlanıyor. |
-| 0.103 | 1 Kasım 2026 | Bir videodan başka bir dosyaya hızlıca geçince yeni dosya artık kendiliğinden duraklamıyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
