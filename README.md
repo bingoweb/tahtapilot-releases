@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.111 (Taylan)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.112 (Arya)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.112 | 1 Kasım 2026 | Tahta, telefonla yönetilmediği zamanlarda Pardus güncellemelerini de sessizce kendisi kuruyor. |
 | 0.111 | 1 Kasım 2026 | Yeni sürümler yayımlandığı anda bütün tahtalara kuruluyor. |
 | 0.110 | 1 Kasım 2026 | Bir güncelleme kurulamazsa tahta kendiliğinden önceki sürüme dönüyor. |
 | 0.109 | 1 Kasım 2026 | Bağlantı koptuğunda başarısız sayılan bir komut, bağlantı geri gelince artık kendiliğinden çalışmıyor. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.096 | 31 Ekim 2026 | Dosya açılırken hemen verilen komutlar (sayfa çevirme gibi) kaybolmuyor. |
 | 0.095 | 31 Ekim 2026 | Takılan bir Word ya da PowerPoint dönüştürmesi sonraki dosyaları artık engellemiyor. |
 | 0.094 | 31 Ekim 2026 | Tahtanın kendi kendini denetlemesi artık PDF, video ve ses açmayı da deniyor. |
-| 0.093 | 31 Ekim 2026 | Tahtanın sunucuyla bağlantısı art arda gelen isteklerde daha kararlı. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
