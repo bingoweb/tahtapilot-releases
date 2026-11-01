@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.151 (Arya)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.152 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.152 | 1 Kasım 2026 | Gönderdiğin dosya ekranda bir defter sayfası olarak görünüyor; son üç dosyayı Canlı ekranından tek dokunuşla yeniden açabiliyorsun. |
 | 0.151 | 1 Kasım 2026 | Web adresi gönderirken yazma alanı hemen açılıyor ve daha kolay kullanılıyor. |
 | 0.141 | 1 Kasım 2026 | Telefondan arka arkaya verilen komutlar tahtaya daha hızlı ulaşıyor. |
 | 0.140 | 1 Kasım 2026 | Android telefonlarda başka bir uygulamadaki dosyayı «Paylaş» menüsünden doğrudan tahtaya gönderebiliyorsun. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.112 | 1 Kasım 2026 | Tahta, telefonla yönetilmediği zamanlarda Pardus güncellemelerini de sessizce kendisi kuruyor. |
 | 0.111 | 1 Kasım 2026 | Yeni sürümler yayımlandığı anda bütün tahtalara kuruluyor. |
 | 0.110 | 1 Kasım 2026 | Bir güncelleme kurulamazsa tahta kendiliğinden önceki sürüme dönüyor. |
-| 0.109 | 1 Kasım 2026 | Bağlantı koptuğunda başarısız sayılan bir komut, bağlantı geri gelince artık kendiliğinden çalışmıyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
