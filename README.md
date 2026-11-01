@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.106 (Arya)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
+<p align="center"><b>Son sürüm: 0.107 (Melinda)</b> · 1 Kasım 2026 · <a href="../../releases/latest">İndir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -87,6 +87,7 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.107 | 1 Kasım 2026 | Bir telefon iki tahtayla eşleştiyse, en son kodunu okuttuğun tahtaya bağlanıyor. |
 | 0.103 | 1 Kasım 2026 | Bir videodan başka bir dosyaya hızlıca geçince yeni dosya artık kendiliğinden duraklamıyor. |
 | 0.097 | 31 Ekim 2026 | Tahta videoyu kendiliğinden oynatamazsa "dosya açılamıyor" demek yerine videoyu duraklatıyor. |
 | 0.096 | 31 Ekim 2026 | Dosya açılırken hemen verilen komutlar (sayfa çevirme gibi) kaybolmuyor. |
@@ -96,7 +97,6 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 | 0.092 | 31 Ekim 2026 | Tahtada yanıtlanmayan bağlantı isteği beş dakika sonra kendiliğinden kapanıyor. |
 | 0.091 | 31 Ekim 2026 | Onaylanan telefon, sayfa yenilense bile hatırlanıyor. |
 | 0.090 | 31 Ekim 2026 | Telefon onaylandıktan sonra QR ekranı kendiliğinden kapanıyor. |
-| 0.089 | 31 Ekim 2026 | QR ekranı yeniden açıldığında eski kod bir an bile görünmüyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
