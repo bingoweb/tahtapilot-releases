@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.218 (Melinda)</b> · 6 Kasım 2026 · <a href="../../releases/download/v0.218/tahtapilot_0.218_amd64.deb">Tahta paketini indir</a></p>
+<p align="center"><b>Son sürüm: 0.219 (Taylan)</b> · 6 Kasım 2026 · <a href="../../releases/download/v0.219/tahtapilot_0.219_amd64.deb">Tahta paketini indir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -92,10 +92,10 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.219 | 6 Kasım 2026 | Ses ve video oynarken tahtada ne kadarının geçtiği ve toplam süresi görünüyor. |
 | 0.217 | 6 Kasım 2026 | Gönderdiğin dosya artık tahtada mıknatısla tutturulmuş bir kâğıt gibi açılıyor. Kimin gönderdiği kısa bir notla görünüyor; sayfa numarası, sayaç ve hata mesajl… |
 | 0.216 | 3 Kasım 2026 | Telefon uygulaması ilk açılışta yaklaşık yarı yarıya daha az veri indiriyor. |
 | 0.215 | 3 Kasım 2026 | 10'dan fazla dosya seçtiğinde çıkan uyarı artık «gönderildi» gibi yeşil görünmüyor. |
-| 0.214 | 3 Kasım 2026 | 10'dan fazla dosya seçtiğinde «ilk 10 dosya gönderiliyor» uyarısı artık hep görünüyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
