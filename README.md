@@ -7,7 +7,7 @@
 <p align="center">Telefonundaki dosyayı akıllı tahtada aç.</p>
 
 <!-- AUTO:LATEST -->
-<p align="center"><b>Son sürüm: 0.220 (Arya)</b> · 6 Kasım 2026 · <a href="../../releases/download/v0.220/tahtapilot_0.220_amd64.deb">Tahta paketini indir</a></p>
+<p align="center"><b>Son sürüm: 0.221 (Melinda)</b> · 12 Kasım 2026 · <a href="../../releases/download/v0.221/tahtapilot_0.221_amd64.deb">Tahta paketini indir</a></p>
 <!-- /AUTO:LATEST -->
 
 ## Nereden çıktı?
@@ -92,10 +92,10 @@ Sonraki güncellemeleri tahta kendisi kuruyor. Yeni bir sürüm çıktığında 
 <!-- AUTO:HISTORY -->
 | Sürüm | Tarih | Yenilikler |
 | --- | --- | --- |
+| 0.221 | 12 Kasım 2026 | Tahtanın sağındaki tutamaç artık ince ve soluk; video ya da tarayıcı tam ekranken kendiliğinden gizleniyor, istersen menüden 15 dakika gizleyebilirsin. |
 | 0.220 | 6 Kasım 2026 | Ses ve video oynarken süre, tahtanın altında kâğıt bir şeritte kalemle çizilen bir çizgiyle gösteriliyor. |
 | 0.219 | 6 Kasım 2026 | Ses ve video oynarken tahtada ne kadarının geçtiği ve toplam süresi görünüyor. |
 | 0.217 | 6 Kasım 2026 | Gönderdiğin dosya artık tahtada mıknatısla tutturulmuş bir kâğıt gibi açılıyor. Kimin gönderdiği kısa bir notla görünüyor; sayfa numarası, sayaç ve hata mesajl… |
-| 0.216 | 3 Kasım 2026 | Telefon uygulaması ilk açılışta yaklaşık yarı yarıya daha az veri indiriyor. |
 <!-- /AUTO:HISTORY -->
 
 ## Kullanım
